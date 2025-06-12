@@ -1,0 +1,2139 @@
+{
+  "Afghanistan": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Albania": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Algeria": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "American_Samoa": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Andorra": [
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Virgin_Islands_British": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Angola": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Anguilla_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Antarctica": [],
+  "Antigua_and_Barbuda": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Argentina": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Armenia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Aruba": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "French_Polynesia_France": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Australia": [
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Austria": [
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Azerbaijan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Azores": [
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Bahamas_The": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Bahrain": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Bangladesh": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Barbados": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Belarus": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Belgium": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Belize": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Benin": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Bermuda_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Bhutan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Bolivia": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Bonaire": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Bosnia_and_Herzegovina": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Botswana": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Brazil": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "British_Indian_Ocean_Territory_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Brunei": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Bulgaria": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Burkina_Faso": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Burma_Myanmar": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Burundi": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Mpox",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Turks_and_Caicos_Islands_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Cambodia": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Cameroon": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Canada": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Canary_Islands_Spain": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Cape_Verde": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Cayman_Islands_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Central_African_Republic": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Mpox",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Chad": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Chile": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "China": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Christmas_Island_Australia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Cocos_Keeling_Islands_Australia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Colombia": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Comoros": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Congo_Republic_of_the": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Mpox",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Cook_Islands_New_Zealand": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Costa_Rica": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Cte_dIvoire": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Croatia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Cuba": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Curaao": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Cyprus": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Czechia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Democratic_Republic_of_the_Congo": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Mpox",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Denmark": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Djibouti": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Dominica": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Dominican_Republic": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "United_Arab_Emirates": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Mpox",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Easter_Island_Chile": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Ecuador": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Egypt": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "El_Salvador": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "United_Kingdom": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Equatorial_Guinea": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Eritrea": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Estonia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Eswatini_Swaziland": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Ethiopia": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Falkland_Islands_Islas_Malvinas": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Faroe_Islands_Denmark": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Fiji": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Finland": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "France": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "French_Guiana_France": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Gabon": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Gambia_The": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Georgia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Germany": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Ghana": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Gibraltar_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Greece": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Greenland_Denmark": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Grenada": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Saint_Vincent_and_the_Grenadines": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Guadeloupe": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Guam_US": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Guatemala": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Guinea": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Guinea-Bissau": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Guyana": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Haiti": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Italy": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Honduras": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Hong_Kong_China": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Hungary": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Iceland": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "India": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Indonesia": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Iran": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Iraq": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Ireland": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Israel_including_the_West_Bank_and_Gaza": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Jamaica": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Japan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Jordan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid"
+  ],
+  "Kazakhstan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Kenya": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Mpox",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Kiribati": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Kosovo": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Kuwait": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Kyrgyzstan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Laos": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Latvia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Lebanon": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Lesotho": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Liberia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Libya": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Liechtenstein": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Lithuania": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Luxembourg": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Macau_China": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Madagascar": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Madeira_Islands_Portugal": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Malawi": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Malaysia": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Maldives": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Mali": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Malta": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Marshall_Islands": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid"
+  ],
+  "Martinique_France": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Mauritania": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Mauritius": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Mayotte_France": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Mexico": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Micronesia_Federated_States_of": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Moldova": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Monaco": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies"
+  ],
+  "Mongolia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Montenegro": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Montserrat_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Morocco": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Mozambique": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Namibia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Nauru": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid"
+  ],
+  "Nepal": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Netherlands_The": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "New_Caledonia_France": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "New_Zealand": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Nicaragua": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Niger": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Nigeria": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Niue_New_Zealand": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Norfolk_Island_Australia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "North_Korea": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "North_Macedonia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Northern_Mariana_Islands_US": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Norway": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Oman": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Pakistan": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Palau": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Panama": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Papua_New_Guinea": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Paraguay": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Peru": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Philippines": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Pitcairn_Islands_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Poland": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Portugal": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Puerto_Rico_US": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Qatar": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Runion_France": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Romania": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Russia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Rwanda": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Mpox",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Saba": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Saint_Barthelemy": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Virgin_Islands_US": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Saint_Helena_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid"
+  ],
+  "Saint_Kitts_and_Nevis": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Saint_Lucia": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Saint_Martin": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Saint_Pierre_and_Miquelon_France": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Samoa": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "San_Marino": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "So_Tom_and_Prncipe": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Saudi_Arabia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Senegal": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Serbia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Seychelles": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Sierra_Leone": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Mpox",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Singapore": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Sint_Eustatius": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Sint_Maarten": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Slovakia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Slovenia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Solomon_Islands": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Somalia": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "South_Africa": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "South_Georgia_and_the_South_Sandwich_Islands_UK": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "South_Korea": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "South_Sudan": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Spain": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Sri_Lanka": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Sudan": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Suriname": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Sweden": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Switzerland": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Syria": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Taiwan": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "Tajikistan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Tanzania": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Mpox",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Thailand": [
+    "Chikungunya",
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Timor-Leste_East_Timor": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Trinidad_and_Tobago": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Togo": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Tokelau_New_Zealand": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Tonga": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Tunisia": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Trkiye_Turkey": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Turkmenistan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Tuvalu": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Uganda": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Meningococcal disease",
+    "Mpox",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Ukraine": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Yellow Fever"
+  ],
+  "United_States": [],
+  "Uruguay": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid"
+  ],
+  "Uzbekistan": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Vanuatu": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Venezuela": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Vietnam": [
+    "Chikungunya",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Japanese Encephalitis",
+    "Malaria",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Wake_Island": [
+    "Hepatitis A",
+    "Hepatitis B",
+    "Measles",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Yemen": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Zambia": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Mpox",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ],
+  "Zimbabwe": [
+    "Cholera",
+    "Hepatitis A",
+    "Hepatitis B",
+    "Malaria",
+    "Measles",
+    "Polio",
+    "Rabies",
+    "Typhoid",
+    "Yellow Fever"
+  ]
+}

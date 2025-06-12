@@ -47,4 +47,11 @@ var/
 
 # Logs
 logs
-*.log 
+*.log
+
+# Build output
+dist/
+build/
+
+# OS
+Thumbs.db 
