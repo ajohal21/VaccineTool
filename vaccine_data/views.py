@@ -5,7 +5,7 @@ from django.db import transaction
 from .models import Country, Vaccine
 from bs4 import BeautifulSoup
 import os
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 
 
 
@@ -17,3 +17,8 @@ def list_data(request):
         return render(request, 'vaccine_data/list_data.html', {'data': data})
     except FileNotFoundError:
         return HttpResponse("Please run the data extraction script first.")
+
+def vaccine_data_api(request):
+    with open('data/vaccine_data.json', 'r') as f:
+        data = json.load(f)
+    return JsonResponse(data)
